@@ -23,4 +23,6 @@
 
 ## Execution
 
-- Once you have everything setup, sourcing runHZAR.R should execute the entire analysis
+- Once you have everything setup, sourcing runHZAR.R should execute through model selection.
+- When that script run to completion, adjust the two if(FALSE) code blocks to perform trace analysis as
+needed on the relevant loci and traits
