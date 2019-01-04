@@ -20,3 +20,7 @@
 - To reduce the number of traces required, AICc is used to select the best models for each locus.
 - This code will attempt to run loci in parallel.  Generation of traces for models with exponential tails can consume very large amounts of memory.  Be care when running these scripts on laptops.
 - This code automatically makes several directories to contain the interim data files.  
+
+## Execution
+
+- Once you have everything setup, sourcing runHZAR.R should execute the entire analysis
