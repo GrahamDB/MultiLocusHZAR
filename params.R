@@ -3,7 +3,11 @@
 library(hzar)
 library(subplex)
 
-if(require(doMC)){
+if(require(doParallel)){
+  ## If you have doMC, use foreach in parallel mode
+  ## to speed up computation.
+  registerDoParallel(3)
+} else if(require(doMC)){
   ## If you have doMC, use foreach in parallel mode
   ## to speed up computation.
   registerDoMC(3)
@@ -23,5 +27,5 @@ all.clines <- c(loci,traits)
 
 ## cline range (assuming observations between 0 and 1200 km)
 
-far.left  = -200
-far.right = 900
+far.left  = -100
+far.right = 1300

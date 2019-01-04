@@ -11,9 +11,9 @@
 - Read and edit params.R for parameters related to the observed data 
 (e.g. the range of distances sampled)
 
-- Read and edit FIXME for parameters related to parallelism
+- Read and edit params.R for parameters related to parallelism
 
-- Read and edit FIXME for parameters related to model generation
+- Read and edit modelLoader.R for parameters related to model generation
 
 ## Usage notes
 
