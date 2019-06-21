@@ -1,0 +1,272 @@
+Ind.Number,Ind,Sampling_Site,Site.Name,SiteID,Site.Number,Date,Q.A,Q.A.Inverse
+242,sl_157,Palo_Verde,Palo Verde,A,1,2014,0,1
+243,sl_158,Palo_Verde,Palo Verde,A,1,2014,0,1
+244,sl_159,Palo_Verde,Palo Verde,A,1,2014,0,1
+245,sl_160b,Palo_Verde,Palo Verde,A,1,2014,0,1
+246,sl_161,Palo_Verde,Palo Verde,A,1,2014,0,1
+247,sl_162,Palo_Verde,Palo Verde,A,1,2014,0,1
+248,sl_163,Palo_Verde,Palo Verde,A,1,2014,0,1
+249,sl_164,Palo_Verde,Palo Verde,A,1,2014,0,1
+250,sl_165,Palo_Verde,Palo Verde,A,1,2014,0,1
+251,sl_166b,Palo_Verde,Palo Verde,A,1,2014,0,1
+252,sl_167,Palo_Verde,Palo Verde,A,1,2014,0,1
+259,sl_174,La_Gamba,La Gamba,B,2,2014,0,1
+260,sl_175,La_Gamba,La Gamba,B,2,2014,0.012,0.988
+261,sl_176,La_Gamba,La Gamba,B,2,2014,0.015,0.985
+262,sl_177,La_Gamba,La Gamba,B,2,2014,0,1
+263,sl_178 ,La_Gamba,La Gamba,B,2,2014,0,1
+264,sl_179,La_Gamba,La Gamba,B,2,2014,0,1
+265,sl_180,La_Gamba,La Gamba,B,2,2014,0.014,0.986
+266,sl_181,La_Gamba,La Gamba,B,2,2014,0,1
+17,lsumz_46451,Changuinola,Changuinola,C,3.1,1994,0,1
+85,mjm_8902,Changuinola,Changuinola,C,3.2,2014,0,1
+253,sl_168,Coto_47,Coto 47,D,4,2014,0,1
+254,sl_169b,Coto_47,Coto 47,D,4,2014,0,1
+255,sl_170,Coto_47,Coto 47,D,4,2014,0.001,0.999
+256,sl_171,Coto_47,Coto 47,D,4,2014,0.001,0.999
+257,sl_172,Coto_47,Coto 47,D,4,2014,0,1
+258,sl_173b,Coto_47,Coto 47,D,4,2014,0,1
+267,sl_182b,Coto_47,Coto 47,D,4,2014,0,1
+268,sl_183b,Coto_47,Coto 47,D,4,2014,0,1
+269,sl_184a,Coto_47,Coto 47,D,4,2014,0,1
+270,sl_185a,Coto_47,Coto 47,D,4,2014,0,1
+199,sl_114,Playa Barqueta,Playa Barqueta,E,5,2014,0.001,0.999
+200,sl_115,Playa Barqueta,Playa Barqueta,E,5,2014,0.003,0.997
+201,sl_116,Playa Barqueta,Playa Barqueta,E,5,2014,0.011,0.989
+202,sl_117,Playa Barqueta,Playa Barqueta,E,5,2014,0,1
+203,sl_118,Playa Barqueta,Playa Barqueta,E,5,2014,0,1
+204,sl_119,Playa Barqueta,Playa Barqueta,E,5,2014,0,1
+205,sl_120,Playa Barqueta,Playa Barqueta,E,5,2014,0,1
+206,sl_121,Playa Barqueta,Playa Barqueta,E,5,2014,0.004,0.996
+207,sl_122,Playa Barqueta,Playa Barqueta,E,5,2014,0,1
+208,sl_123,Playa Barqueta,Playa Barqueta,E,5,2014,0.007,0.993
+5,lsumz_25289,Orillas_del_rio,Orillas del Rio,F,6.1,1994,0.491,0.509
+6,lsumz_25290,Orillas_del_rio,Orillas del Rio,F,6.1,1994,0,1
+50,mjm_8245,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0.001,0.999
+51,mjm_8246,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0,1
+52,mjm_8247,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0.001,0.999
+53,mjm_8248,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0.001,0.999
+54,mjm_8249,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0.008,0.992
+209,sl_124,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0,1
+210,sl_125,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0.012,0.988
+211,sl_126,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0.012,0.988
+212,sl_127b,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0,1
+213,sl_128,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0,1
+214,sl_129,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0,1
+215,sl_130,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0.002,0.998
+216,sl_131,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0,1
+217,sl_132,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0.013,0.987
+218,sl_133,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0.004,0.996
+219,sl_134,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0.003,0.997
+220,sl_135,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0,1
+221,sl_136,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0,1
+222,sl_137,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0.001,0.999
+223,sl_138,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0,1
+271,sl_186,Orillas_del_rio,Orillas del Rio,F,6.2,2014,0.009,0.991
+48,mjm_8237,Horconcitos,Horconcitos/Playa Hermosa,G,8,2014,0,1
+49,mjm_8238,Horconcitos,Horconcitos/Playa Hermosa,G,8,2014,0.004,0.996
+224,sl_139b,Horconcitos,Horconcitos/Playa Hermosa,G,8,2014,0.003,0.997
+225,sl_140,Horconcitos,Horconcitos/Playa Hermosa,G,8,2014,0.0043,0.9957
+226,sl_141b,Horconcitos,Horconcitos/Playa Hermosa,G,8,2014,0.005,0.995
+227,sl_142,Horconcitos,Horconcitos/Playa Hermosa,G,8,2014,0,1
+228,sl_143,Horconcitos,Horconcitos/Playa Hermosa,G,8,2014,0,1
+1,lsumz_25285,Las_Lajas,Las Lajas,I,9.1,1994,0.299,0.701
+2,lsumz_25286,Las_Lajas,Las Lajas,I,9.1,1994,0.516,0.484
+3,lsumz_25287,Las_Lajas,Las Lajas,I,9.1,1994,0.552,0.448
+7,lsumz_25291,Las_Lajas,Las Lajas,I,9.1,1994,0.001,0.999
+55,mjm_8287,Las_Lajas,Las Lajas,I,9.2,2014,0,1
+56,mjm_8288,Las_Lajas,Las Lajas,I,9.2,2014,0,1
+57,mjm_8289,Las_Lajas,Las Lajas,I,9.2,2014,0.043,0.957
+58,mjm_8290,Las_Lajas,Las Lajas,I,9.2,2014,0.007,0.993
+59,mjm_8291,Las_Lajas,Las Lajas,I,9.2,2014,0,1
+60,mjm_8292,Las_Lajas,Las Lajas,I,9.2,2014,0,1
+61,mjm_8293,Las_Lajas,Las Lajas,I,9.2,2014,0.003,0.997
+191,sl_106,Las_Lajas,Las Lajas,I,9.2,2014,0,1
+192,sl_107b,Las_Lajas,Las Lajas,I,9.2,2014,0.02,0.98
+193,sl_108,Las_Lajas,Las Lajas,I,9.2,2014,0,1
+194,sl_109,Las_Lajas,Las Lajas,I,9.2,2014,0.013,0.987
+195,sl_110,Las_Lajas,Las Lajas,I,9.2,2014,0.007,0.993
+196,sl_111,Las_Lajas,Las Lajas,I,9.2,2014,0,1
+197,sl_112,Las_Lajas,Las Lajas,I,9.2,2014,0.0117,0.9883
+198,sl_113,Las_Lajas,Las Lajas,I,9.2,2014,0.001,0.999
+94,sel_stri_09,Remedios,Remedios,J,10,2014,0.953,0.047
+95,sel_stri_10,Remedios,Remedios,J,10,2014,0.005,0.995
+96,sel_stri_11,Remedios,Remedios,J,10,2014,0.001,0.999
+97,sel_stri_12,Remedios,Remedios,J,10,2014,0.006,0.994
+98,sel_stri_13,Remedios,Remedios,J,10,2014,0.01,0.99
+99,sel_stri_14,Remedios,Remedios,J,10,2014,0.003,0.997
+100,sel_stri_15,Remedios,Remedios,J,10,2014,0,1
+101,sel_stri_16,Remedios,Remedios,J,10,2014,0.002,0.998
+102,sel_stri_17,Remedios,Remedios,J,10,2014,0.022,0.978
+103,sel_stri_18,Remedios,Remedios,J,10,2014,0,1
+104,sel_stri_19,Remedios,Remedios,J,10,2014,0.007,0.993
+105,sel_stri_20,Remedios,Remedios,J,10,2014,0.017,0.983
+106,sel_stri_21,Remedios,Remedios,J,10,2014,0,1
+107,sel_stri_22,Remedios,Remedios,J,10,2014,0.021,0.979
+108,sel_stri_23,Remedios,Remedios,J,10,2014,0.012,0.988
+109,sel_stri_24,Remedios,Remedios,J,10,2014,0.01,0.99
+110,sel_stri_25,Remedios,Remedios,J,10,2014,0.008,0.992
+111,sel_stri_26,Remedios,Remedios,J,10,2014,0.0017,0.9983
+112,sel_stri_27,Remedios,Remedios,J,10,2014,0.014,0.986
+113,sel_stri_28,Remedios,Remedios,J,10,2014,0.019,0.981
+114,sel_stri_29,Remedios,Remedios,J,10,2014,0.002,0.998
+115,sel_stri_30,Remedios,Remedios,J,10,2014,0,1
+116,sel_stri_31,Remedios,Remedios,J,10,2014,0.005,0.995
+117,sel_stri_32,Remedios,Remedios,J,10,2014,0.016,0.984
+118,sel_stri_33,Remedios,Remedios,J,10,2014,0.011,0.989
+119,sel_stri_34,Remedios,Remedios,J,10,2014,0,1
+120,sel_stri_35,Remedios,Remedios,J,10,2014,0.02,0.98
+121,sel_stri_36,Remedios,Remedios,J,10,2014,0.032,0.968
+4,lsumz_25288,Rio_Tabasara,Rio Tabasara Delta,K,11.1,1994,0.497,0.503
+8,lsumz_25292,Rio_Tabasara,Rio Tabasara Delta,K,11.1,1994,0.943,0.057
+30,mjm_7744,Rio_Tabasara,Rio Tabasara Delta,K,11.2,2014,0,1
+31,mjm_7745,Rio_Tabasara,Rio Tabasara Delta,K,11.2,2014,0.983,0.017
+32,mjm_7746,Rio_Tabasara,Rio Tabasara Delta,K,11.2,2014,0.127,0.873
+37,mjm_7760,Rio_Tabasara,Rio Tabasara Delta,K,11.2,2014,0.001,0.999
+38,mjm_7761,Rio_Tabasara,Rio Tabasara Delta,K,11.2,2014,0.219,0.781
+39,mjm_7762,Rio_Tabasara,Rio Tabasara Delta,K,11.2,2014,0,1
+40,mjm_7763  ,Rio_Tabasara,Rio Tabasara Delta,K,11.2,2014,0.961,0.039
+9,lsumz_25293,Puerto_Vidal,Puerto Vidal,L,12.1,1994,0.981,0.019
+21,mjm_7659,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.009,0.991
+22,mjm_7660,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.958,0.042
+23,mjm_7661,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.359,0.641
+24,mjm_7662,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0,1
+25,mjm_7663,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0,1
+26,mjm_7664,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.977,0.023
+27,mjm_7665,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.348,0.652
+28,mjm_7666,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.001,0.999
+29,mjm_7743,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.3,0.7
+33,mjm_7751,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.493,0.507
+34,mjm_7752,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.188,0.812
+35,mjm_7757,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0,1
+36,mjm_7758,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.004,0.996
+86,sel_stri_01,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.912,0.088
+87,sel_stri_02,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.514,0.486
+88,sel_stri_03,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.965,0.035
+89,sel_stri_04,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.001,0.999
+90,sel_stri_05,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.985,0.015
+91,sel_stri_06,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0,1
+92,sel_stri_07,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.963,0.037
+93,sel_stri_08,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.001,0.999
+241,sl_156,Puerto_Vidal,Puerto Vidal,L,12.2,2014,0.776,0.224
+73,mjm_8430,Jorones,Jorones,M,13,2014,0.02,0.98
+74,mjm_8431,El_Espino,El Espino (Sona),N,14,2014,0.919,0.081
+239,sl_154,Sona,Sona,O,15,2014,0.521,0.479
+240,sl_155,Sona,Sona,O,15,2014,0.935,0.065
+82,mjm_8837,Tolica,Tolica,P,16,2014,0.846,0.154
+122,sel_stri_37,El_Maranon,El Maranon,Q,17,2014,0.954,0.046
+123,sel_stri_38,El_Maranon,El Maranon,Q,17,2014,0.9533,0.0467
+124,sel_stri_39,El_Maranon,El Maranon,Q,17,2014,0.909,0.091
+125,sel_stri_40,El_Maranon,El Maranon,Q,17,2014,0.939,0.061
+126,sel_stri_41,El_Maranon,El Maranon,Q,17,2014,0.971,0.029
+127,sel_stri_42,El_Maranon,El Maranon,Q,17,2014,0.001,0.999
+128,sel_stri_43,El_Maranon,El Maranon,Q,17,2014,0.931,0.069
+129,sel_stri_44,El_Maranon,El Maranon,Q,17,2014,0.972,0.028
+130,sel_stri_45,El_Maranon,El Maranon,Q,17,2014,0.9543,0.0457
+131,sel_stri_46,El_Maranon,El Maranon,Q,17,2014,0.973,0.027
+132,sel_stri_47,El_Maranon,El Maranon,Q,17,2014,0.839,0.161
+133,sel_stri_48,El_Maranon,El Maranon,Q,17,2014,0.907,0.093
+134,sel_stri_49,El_Maranon,El Maranon,Q,17,2014,0.996,0.004
+135,sel_stri_50,El_Maranon,El Maranon,Q,17,2014,0.9627,0.0373
+136,sel_stri_51,El_Maranon,El Maranon,Q,17,2014,0.967,0.033
+137,sel_stri_52,El_Maranon,El Maranon,Q,17,2014,0.982,0.018
+138,sel_stri_53,El_Maranon,El Maranon,Q,17,2014,0.966,0.034
+139,sel_stri_54,El_Maranon,El Maranon,Q,17,2014,0.756,0.244
+140,sel_stri_55,El_Maranon,El Maranon,Q,17,2014,0.982,0.018
+141,sel_stri_56,El_Maranon,El Maranon,Q,17,2014,0.833,0.167
+142,sel_stri_57,El_Maranon,El Maranon,Q,17,2014,0.988,0.012
+180,sl_095,El_Maranon,El Maranon,Q,17,2014,0.749,0.251
+181,sl_096b,El_Maranon,El Maranon,Q,17,2014,0.812,0.188
+182,sl_097,El_Maranon,El Maranon,Q,17,2014,0.967,0.033
+183,sl_098,El_Maranon,El Maranon,Q,17,2014,0.983,0.017
+184,sl_099,El_Maranon,El Maranon,Q,17,2014,0.98,0.02
+185,sl_100,El_Maranon,El Maranon,Q,17,2014,0.981,0.019
+186,sl_101,El_Maranon,El Maranon,Q,17,2014,0.986,0.014
+187,sl_102,El_Maranon,El Maranon,Q,17,2014,0.981,0.019
+188,sl_103b,El_Maranon,El Maranon,Q,17,2014,0.976,0.024
+189,sl_104,El_Maranon,El Maranon,Q,17,2014,0.989,0.011
+190,sl_105,El_Maranon,El Maranon,Q,17,2014,0.976,0.024
+83,mjm_8838,La_Corocita,La Corocita,R,18,2014,0.966,0.034
+84,mjm_8839,La_Corocita,La Corocita,R,18,2014,0.983,0.017
+46,mjm_8159,Coclecito,Coclecito,S,19,2014,1,0
+47,mjm_8160,Coclecito,Coclecito,S,19,2014,1,0
+154,sl_069,Cienega_de_las_Macanas,Cienega de las Macanas,U,20,2014,0.967,0.033
+155,sl_070,Cienega_de_las_Macanas,Cienega de las Macanas,U,20,2014,0.972,0.028
+156,sl_071 ,Cienega_de_las_Macanas,Cienega de las Macanas,U,20,2014,0.98,0.02
+157,sl_072,Cienega_de_las_Macanas,Cienega de las Macanas,U,20,2014,0.978,0.022
+158,sl_073,Cienega_de_las_Macanas,Cienega de las Macanas,U,20,2014,0.97,0.03
+159,sl_074,Cienega_de_las_Macanas,Cienega de las Macanas,U,20,2014,0.993,0.007
+160,sl_075,Cienega_de_las_Macanas,Cienega de las Macanas,U,20,2014,0.976,0.024
+161,sl_076b,Cienega_de_las_Macanas,Cienega de las Macanas,U,20,2014,0.97,0.03
+162,sl_077,Cienega_de_las_Macanas,Cienega de las Macanas,U,20,2014,0.9703,0.0297
+163,sl_078,Cienega_de_las_Macanas,Cienega de las Macanas,U,20,2014,0.978,0.022
+164,sl_079,Cienega_de_las_Macanas,Cienega de las Macanas,U,20,2014,0.97,0.03
+165,sl_080,Cienega_de_las_Macanas,Cienega de las Macanas,U,20,2014,0.981,0.019
+166,sl_081,Cienega_de_las_Macanas,Cienega de las Macanas,U,20,2014,0.956,0.044
+167,sl_082,Cienega_de_las_Macanas,Cienega de las Macanas,U,20,2014,0.974,0.026
+76,mjm_8818,El_Salado,El Salado,W,21,2014,0.9877,0.0123
+77,mjm_8819,El_Salado,El Salado,W,21,2014,0.98,0.02
+78,mjm_8827,El_Salado,El Salado,W,21,2014,0.992,0.008
+79,mjm_8828,El_Salado,El Salado,W,21,2014,0.974,0.026
+80,mjm_8829,El_Salado,El Salado,W,21,2014,0.984,0.016
+81,mjm_8830,El_Salado,El Salado,W,21,2014,0.998,0.002
+75,mjm_8776,Puerto_El_Gago,Puerto El Gago,X,22,2014,0.862,0.138
+143,sl_058,Puerto_El_Gago,Puerto El Gago,X,22,2014,0.956,0.044
+144,sl_059,Puerto_El_Gago,Puerto El Gago,X,22,2014,0.98,0.02
+145,sl_060,Puerto_El_Gago,Puerto El Gago,X,22,2014,0.9777,0.0223
+146,sl_061,Puerto_El_Gago,Puerto El Gago,X,22,2014,1,0
+147,sl_062,Puerto_El_Gago,Puerto El Gago,X,22,2014,0.99,0.01
+148,sl_063,Puerto_El_Gago,Puerto El Gago,X,22,2014,0.963,0.037
+149,sl_064,Puerto_El_Gago,Puerto El Gago,X,22,2014,1,0
+150,sl_065,Puerto_El_Gago,Puerto El Gago,X,22,2014,0.959,0.041
+151,sl_066,Puerto_El_Gago,Puerto El Gago,X,22,2014,0.995,0.005
+152,sl_067b,Puerto_El_Gago,Puerto El Gago,X,22,2014,1,0
+153,sl_068,Puerto_El_Gago,Puerto El Gago,X,22,2014,0.972,0.028
+168,sl_083,Quebro,Quebro,Y,23,2014,0.956,0.044
+169,sl_084b,Quebro,Quebro,Y,23,2014,0.979,0.021
+170,sl_085,Quebro,Quebro,Y,23,2014,0.97,0.03
+171,sl_086,Quebro,Quebro,Y,23,2014,0.956,0.044
+172,sl_087,Quebro,Quebro,Y,23,2014,0.971,0.029
+173,sl_088,Quebro,Quebro,Y,23,2014,0.96,0.04
+174,sl_089,Quebro,Quebro,Y,23,2014,0.946,0.054
+175,sl_090,Quebro,Quebro,Y,23,2014,0.998,0.002
+176,sl_091,Quebro,Quebro,Y,23,2014,0.953,0.047
+177,sl_092,Quebro,Quebro,Y,23,2014,0.978,0.022
+178,sl_093,Quebro,Quebro,Y,23,2014,1,0
+179,sl_094,Quebro,Quebro,Y,23,2014,0.745,0.255
+19,mjm_5148,Cenegon_del_Mangle,Cenegon del Mangle,ZA,24,2014,0.9847,0.0153
+18,lsumz_51411,Rosario,Rosario,ZB,25.1,1994,0.998,0.002
+10,lsumz_25294,Gamboa,Gamboa,ZC,26.1,1994,0.999,0.001
+11,lsumz_25295,Gamboa,Gamboa,ZC,26.1,1994,1,0
+12,lsumz_28799,Gamboa,Gamboa,ZC,26.1,1994,1,0
+13,lsumz_28800,Gamboa,Gamboa,ZC,26.1,1994,1,0
+14,lsumz_28801,Gamboa,Gamboa,ZC,26.1,1994,1,0
+15,lsumz_28802,Gamboa,Gamboa,ZC,26.1,1994,1,0
+16,lsumz_28803,Gamboa,Gamboa,ZC,26.1,1994,1,0
+229,sl_144,Gamboa,Gamboa,ZC,26.2,2014,1,0
+230,sl_145,Gamboa,Gamboa,ZC,26.2,2014,1,0
+231,sl_146,Gamboa,Gamboa,ZC,26.2,2014,1,0
+232,sl_147,Gamboa,Gamboa,ZC,26.2,2014,1,0
+233,sl_148,Gamboa,Gamboa,ZC,26.2,2014,1,0
+234,sl_149,Gamboa,Gamboa,ZC,26.2,2014,1,0
+235,sl_150,Gamboa,Gamboa,ZC,26.2,2014,1,0
+236,sl_151,Gamboa,Gamboa,ZC,26.2,2014,1,0
+237,sl_152,Gamboa,Gamboa,ZC,26.2,2014,1,0
+238,sl_153,Gamboa,Gamboa,ZC,26.2,2014,1,0
+71,mjm_8401,Tocumen,Tocumen,ZD,27,2014,1,0
+72,mjm_8402,Tocumen,Tocumen,ZD,27,2014,1,0
+20,mjm_5837,Pacora,Pacora,ZE,7,2014,1,0
+41,mjm_7852,Aruza_Abajo,Aruza Abajo,ZG,28,2014,1,0
+42,mjm_7854,Aruza_Abajo,Aruza Abajo,ZG,28,2014,1,0
+43,mjm_7858,Aruza_Abajo,Aruza Abajo,ZG,28,2014,1,0
+44,mjm_7957,Aruza_Abajo,Aruza Abajo,ZG,28,2014,1,0
+45,mjm_7958,Aruza_Abajo,Aruza Abajo,ZG,28,2014,1,0
+62,mjm_8344,Aruza_Abajo,Aruza Abajo,ZG,28,2014,1,0
+63,mjm_8345,Aruza_Abajo,Aruza Abajo,ZG,28,2014,1,0
+64,mjm_8346b,Aruza_Abajo,Aruza Abajo,ZG,28,2014,1,0
+65,mjm_8347,Aruza_Abajo,Aruza Abajo,ZG,28,2014,1,0
+66,mjm_8348,Aruza_Abajo,Aruza Abajo,ZG,28,2014,1,0
+67,mjm_8349b,Aruza_Abajo,Aruza Abajo,ZG,28,2014,1,0
+68,mjm_8350,Aruza_Abajo,Aruza Abajo,ZG,28,2014,1,0
+69,mjm_8351,Aruza_Abajo,Aruza Abajo,ZG,28,2014,1,0
+70,mjm_8352 ,Aruza_Abajo,Aruza Abajo,ZG,28,2014,1,0
