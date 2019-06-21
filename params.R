@@ -17,10 +17,8 @@ if(require(doParallel)){
 }
 
 
-## loci<-read.table("significate_loci_names.txt",stringsAsFactors=FALSE)[[1]]
-#loci<-read.table("jacanaMolecular.csv",stringsAsFactors=FALSE)[[1]]
-loci<-("mtDNA")
-traits<-c("GenPCF","MassF", "AvgSpurF")
+loci<-read.table("significate_loci_names.txt",stringsAsFactors=FALSE)[[1]]
+traits<-c("Q.A")
 
 all.clines <- c(loci,traits)
 
