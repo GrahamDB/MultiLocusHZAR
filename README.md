@@ -26,3 +26,9 @@
 - Once you have everything setup, sourcing runHZAR.R should execute through model selection.
 - When that script run to completion, adjust the two if(FALSE) code blocks to perform trace analysis as
 needed on the relevant loci and traits
+
+## References
+
+The included example data is from a multi-locus, multi-trait analysis of Jacanas in the Jacana hybrid zone.
+
+Lipshutz, S. E., Meier, J. I., Derryberry, G. E., Miller, M. J., Seehausen, O. and Derryberry, E. P. (2019), Differential introgression of a female competitive trait in a hybrid zone between sex‐role reversed species. Evolution, 73: 188-201. doi:10.1111/evo.13675
