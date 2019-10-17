@@ -66,6 +66,12 @@ cline.buildObsFreq<-function(locus) {
                              siteID=row.names(GenFreq))
     }
 
+cline.buildObsNormal <- function(trait) {
+  hzar.doNormalData1DRaw(hzar.mapSiteDist(rownames(GenFreq), GenFreq$distance), 
+                         traitSite = Phen$SiteID,
+                         traitValue = Phen[[trait]])
+}
+
 #Load data from already existing file
 #Picking an allele for a locus
 
