@@ -66,9 +66,11 @@ cline.buildObsFreq<-function(locus) {
                              siteID=row.names(GenFreq))
     }
 
+
 cline.buildObsNormal <- function(trait) {
-  hzar.doNormalData1DRaw(hzar.mapSiteDist(rownames(GenFreq), GenFreq$distance), 
-                         traitSite = Phen$SiteID,
+  hzar.doNormalData1DRaw(hzar.mapSiteDist(siteID = rownames(GenFreq), 
+                                          distance = GenFreq$distance), # Use the unique site ids and distances from the molecular table
+                         traitSite = Phen$SiteID,  # Column of each individual's site. Will only use sites from the map 
                          traitValue = Phen[[trait]])
 }
 
@@ -77,12 +79,6 @@ cline.buildObsNormal <- function(trait) {
 
 #Load Data - first create file
 
-#cline.buildObsFreq<-function(locus) {
-#  hzar.doMolecularData1DPops(GenFreq$distance,
-#                             GenFreq[[locus]],
-#                             GenFreq[[paste(locus,"nSamp",sep=".")]],
-#                             siteID=GenFreq$Site)
-#}
 
 
 cline.fitFastLocusModels <- function(locus,obsData=cline.buildObsFreq(locus),rebuild=FALSE) {
